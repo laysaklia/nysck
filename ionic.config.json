@@ -1,0 +1,7 @@
+{
+  "name": "nysck",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
